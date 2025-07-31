@@ -1,4 +1,4 @@
-### ✨ Hi, I'm a programmer.
+### ✨ Hi, I'm a Software Developer.
 
 <!--
 **TheerayutEncoder/TheerayutEncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
